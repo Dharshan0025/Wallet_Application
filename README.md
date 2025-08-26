@@ -5,7 +5,7 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 ✅ Works on **iOS & Android (simulator or real device)**  
 ✅ Uses your existing **React knowledge**  
 ✅ No need for Swift, Kotlin, or native modules  
-✅ Full-stack project in **under 4 hours**
+✅ Full-stack project
 
 ---
 
